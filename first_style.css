@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/*
+    This is an external stylesheet
+    This is created by Ophilia
+*/
+
+h1{
+    color:rgb(90%, 50%, 40%);
+    text-decoration: underline;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+
+body{
+    background-color: ivory;
+}
+p{
+    font-size: medium;
+    color: rgb(180, 91, 91);
+    text-align: center;
+    word-spacing: 4px;
+}
